@@ -1,4 +1,18 @@
+$primaryColor: #446ccf;
+
 * {
     margin: 0;
     padding: 0;
+    background-color:darken( $primaryColor,80%);
+}
+nav {
+    background-color:darken($primaryColor,80%);
+    
+}
+
+p {
+    color: $primaryColor;
+}
+h1 {
+    font-size: 56px;
 }
