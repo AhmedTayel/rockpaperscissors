@@ -9,3 +9,6 @@ what i learned:
  - when linking a js script in the header, the js file doesnt fetch elements because it runs before the DOM, but putting in the header feels right, adding "async" in the link tag    lets the DOM parse before running the javascript file (asynchronously)
  - must read more about bootsrap rows
  - you can't link two style sheets
+ 
+## live preview 
+https://ahmedtayel.github.io/rockpaperscissors/
